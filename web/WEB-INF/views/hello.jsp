@@ -11,6 +11,6 @@
     <title></title>
   </head>
   <body>
-     欢迎
+     欢迎${hello}
   </body>
 </html>
